@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- tab -->
+  <DM.Tab.AddCustomDay>追加</DM.Tab.AddCustomDay>
+  <DM.Tab.CustomDayDefaultName>無題の記念日</DM.Tab.CustomDayDefaultName>
+  <DM.Tab.RenameCustomDay>Ctrl + 左クリックで改名</DM.Tab.RenameCustomDay>
+  <DM.Tab.TableHeader.Name>名前</DM.Tab.TableHeader.Name>
+  <DM.Tab.TableHeader.Quadrum>節</DM.Tab.TableHeader.Quadrum>
+  <DM.Tab.TableHeader.Day>日</DM.Tab.TableHeader.Day>
+  <DM.Tab.TableHeader.Celebration>祝い事</DM.Tab.TableHeader.Celebration>
+  <DM.Tab.BuiltIn.Settlement>入植記念日</DM.Tab.BuiltIn.Settlement>
+  <DM.Tab.BuiltIn.ChronologicalBirthday>暦上の誕生日</DM.Tab.BuiltIn.ChronologicalBirthday>
+  <DM.Tab.BuiltIn.RelationshipAnniversary>交際記念日</DM.Tab.BuiltIn.RelationshipAnniversary>
+  <DM.Tab.BuiltIn.MarriageAnniversary>結婚記念日</DM.Tab.BuiltIn.MarriageAnniversary>
+  <DM.Tab.Misc.ShowAll>全表示</DM.Tab.Misc.ShowAll>
+
+  <!-- tab duration list -->
+  <DM.Tab.Duration.None>なし</DM.Tab.Duration.None>
+  <DM.Tab.Duration.AllDay>一日中</DM.Tab.Duration.AllDay>
+  <DM.Tab.Duration.Morning>朝</DM.Tab.Duration.Morning>
+  <DM.Tab.Duration.Noon>正午</DM.Tab.Duration.Noon>
+  <DM.Tab.Duration.Afternoon>昼</DM.Tab.Duration.Afternoon>
+  <DM.Tab.Duration.Evening>夕方</DM.Tab.Duration.Evening>
+  <DM.Tab.Duration.Night>夜</DM.Tab.Duration.Night>
+
+  <!-- error -->
+  <DM.Error.NoStarter>パーティー中止: 誰もパーティーを始めようとしない</DM.Error.NoStarter>
+  <DM.Error.NoSpot>パーティー中止: パーティースポットなし</DM.Error.NoSpot>
+
+  <!-- notification -->
+  <DM.Message.TodayBirthday>今日は{0}の{1}歳の誕生日だ!</DM.Message.TodayBirthday>
+  <DM.Message.TodayCustomDay>今日は{0}だ!</DM.Message.TodayCustomDay>
+  <DM.Message.TodaySettlement>今日は{0}の日だ!</DM.Message.TodaySettlement>
+  <DM.Message.TodayMarriageAnniversary>今日は{0}と{1}の結婚記念日だ!</DM.Message.TodayMarriageAnniversary>
+  <DM.Message.TodayRelationshipAnniversary>今日は{0}と{1}の交際記念日だ!</DM.Message.TodayRelationshipAnniversary>
+
+  <!-- letter -->
+  <DM.Letter.PartyTitle>パーティー</DM.Letter.PartyTitle>
+  <DM.Letter.Party>今、{0}が開催中です!!</DM.Letter.Party>
+  <DM.Letter.BirthdayParty>{0}の誕生パーティー</DM.Letter.BirthdayParty>
+  <DM.Letter.SettlementParty>{0}の日</DM.Letter.SettlementParty>
+  <DM.Letter.RelationshipAnniversaryParty>{0}と{1}の交際記念パーティー</DM.Letter.RelationshipAnniversaryParty>
+  <DM.Letter.MarriageAnniversaryParty>{0}と{1}の結婚記念パーティー</DM.Letter.MarriageAnniversaryParty>
+  <DM.Letter.CustomDayParty>{0}のためのパーティ</DM.Letter.CustomDayParty>
+
+  <!--<MessagePartyCalledOff>Party was called off</MessagePartyCalledOff>
+  <MessagePartyFinished>Party was finished</MessagePartyFinished>-->
+
+  <!-- exp message -->
+  <DM.Message.LoversAway>交際記念パーティー中止: {0}と{1}が遠く離れている</DM.Message.LoversAway>
+  <DM.Message.LoversBusy>交際記念パーティー中止: {0}が別のパーティーに参加中</DM.Message.LoversBusy>
+  <DM.Message.SpousesAway>結婚記念パーティ中止: {0}と{1}が遠く離れている</DM.Message.SpousesAway>
+  <DM.Message.SpousesBusy>結婚記念パーティ中止: {0}が別のパーティーに参加中</DM.Message.SpousesBusy>
+
+  <!-- settings -->
+  <PrivateAnniversaries>二人だけの世界</PrivateAnniversaries>
+  <PrivateAnniversaries_Desc>無関係の人は記念パーティーには参加しない。</PrivateAnniversaries_Desc>
+
+</LanguageData>
