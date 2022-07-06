@@ -36,7 +36,7 @@
 
   <!-- letter -->
   <DM.Letter.PartyTitle>パーティー</DM.Letter.PartyTitle>
-  <DM.Letter.Party>今、{0}が開催中です!!</DM.Letter.Party>
+  <DM.Letter.Party>ただ今、{0}が開催中です!!</DM.Letter.Party>
   <DM.Letter.BirthdayParty>{0}の誕生パーティー</DM.Letter.BirthdayParty>
   <DM.Letter.SettlementParty>{0}の日</DM.Letter.SettlementParty>
   <DM.Letter.RelationshipAnniversaryParty>{0}と{1}の交際記念パーティー</DM.Letter.RelationshipAnniversaryParty>
